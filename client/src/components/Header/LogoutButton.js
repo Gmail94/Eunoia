@@ -5,13 +5,13 @@ const LogoutButton = () => {
     const { logout, isAuthenticated } = useAuth0()
 
     return (
-        isAuthenticated && (
+        isAuthenticated && ( //Auth0 validates user 
             <Button onClick = {()=> logout()}>
                 Sign Out
             </Button>
         )
     )
-}
+};
 
 const Button = styled.button`
 cursor: pointer;
@@ -26,6 +26,10 @@ transition: 0.4s;
 background-color: red;
 box-shadow: 0 2px 3px #292929, 0 0 23px white inset;
 color: white;
+transition: transform .2s;
+&:hover{
+    transform: scale(1.05);
+}
 `
 
 export default LogoutButton;

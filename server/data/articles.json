@@ -1,53 +1,132 @@
 [
     {
-        "id": "0001",
-        "title": "Morocco: The Perfect Budget Destination",
-        "date": "August 22, 2022",
-        "coverImgSrc":
-            {
-                "imgSrc": "https://res.cloudinary.com/didxdrmjj/image/upload/v1662052133/Article%20Photos%20-%20The%20Shoestring%20Traveller/Morocco:%20The%20Perfect%20Budget%20Destination/camel-riding-merzouga_jnlq5j.jpg",
-                "imgCaption": "Camel riding in the Merzouga desert."
-            },
+        "_id": "1",
+        "title": "Mental Health",
+        "imgSrc": "https://res.cloudinary.com/degmdqmd0/image/upload/v1669661810/Panic_jhru3x.webp",
+        "summary": "Anxiousness happens to everyone, here are the signs and symptoms",
+
         "paragraphs": [
             {
-                "text": "Looking for the perfect destination for a 2-week budget vacation? Look no further than Morocco! Not only is the accommodation and food affordable, it is generally cheap to fly there from Europe. This makes Morocco one of the best destinations in the world for frugal travellers."
+                "text": "Everyone feels worried or anxious or down from time to time. But relatively few people develop a mental illness. What's the difference? A mental illness is a mental health condition that gets in the way of thinking, relating to others, and day-to-day function."
             },
             {
-                "subHeading": "Getting to Morocco",
-                "text": "Getting to Morocco from Europe is surprisingly inexpensive! My flight from London to Fez only set me back £27 (about $32 USD) on Ryanair. I found that even after spending extra to add a carry-on bag (Ryanair only allows a personal item with the base fare), I found myself spending less on the flight than I would on a full-course meal at a moderately-priced London restaurant."
+                "subHeading": "Signs and symptoms of mental illness depend in part on the illness",
+                "text": "feeling down for a while extreme swings in mood withdrawing from family, friends, or activities low energy or problems sleeping often feeling angry, hostile, or violent feeling paranoid, hearing voices, or having hallucinations often thinking about death or suicide."
             },
             {
-                "subHeading": "Accomodation",
-                "imgSrc": "https://res.cloudinary.com/didxdrmjj/image/upload/v1662052134/Article%20Photos%20-%20The%20Shoestring%20Traveller/Morocco:%20The%20Perfect%20Budget%20Destination/funky-fes_wgxa1r.jpg",
-                "imgCaption": "The view from the rooftop terrace at Funky Fes.",
-                "text": "While hotels in Morocco are affordable relative to North America and Europe, hostels are where you will really save the most. When I was in Fez, I spent only $6 USD a night to sleep on a bunk bed in a hostel dormitory. Not to mention, a traditional all-you-can-eat Moroccan breakfast was included in the price! And if that’s not enough to convince you to stay at a Moroccan hostel, most of them have rooftop terraces that offer stunning views of the city!"
+                "text":"In some people, symptoms of a mental illness first appear as physical problems such as stomach aches, back pain, or insomnia."
             },
             {
-                "text": "However, if you prefer to spend a little more for privacy, hotels are also extremely inexpensive. Depending on the time of year, you can get deals on places such as Pacha Palace in Fez for just $35 USD per night, breakfast included!"
+                "text": "Individuals with a mental illness can often ease their symptoms and feel better by talking with a therapist and following a treatment plan that may or may not include medication."
             },
             {
-                "subHeading": "Food",
-                "imgSrc": "https://res.cloudinary.com/didxdrmjj/image/upload/v1662052135/Article%20Photos%20-%20The%20Shoestring%20Traveller/Morocco:%20The%20Perfect%20Budget%20Destination/lamb-head-marrakesh_veyeb7.jpg",
-                "imgCaption": "Street food from the Jemaa el-Fnaa market in Marrakesh",
-                "text": "Dining in Morocco is generally inexpensive if you manage to avoid tourist traps. And it can be very easy to fall into one without even realizing it. When I was in Chefchaouen, for instance, my tour guide intentionally led us to a restaurant that served tagine for 100 Moroccan dirhams (about 10 USD). Knowing I could get a better price somewhere else, I left the restaurant after the tour guide had sat us down and had a tagine at a restaurant five minutes away for 35 dirhams (about 3 USD). Moreover, dining out in Morocco is inexpensive if you are able to avoid these types of tourist traps."
-            },
-            {
-                "text": "Another way to save money on food while in Morocco is to eat at the markets. One disclaimer that I have is that if you are from North America or Europe, it would be a good idea to visit your local pharmacy to pick up some probiotics to bring along with you on your trip. I certainly overestimated the strength of my stomach and felt a little under the weather for a couple days. Nevertheless, as long as you take precautions, street food in Morocco is not only delicious, it is also generally the cheapest option. In some cases, you can even bargain with the vendors for a better price."
-            },
-            {
-                "text": "While I was in Marrakesh, I visited the Jemma el-Fnaa (the main marketplace of the medina) with three of my hostel-mates. There, we sat down at a vendor that was serving lamb head and got to enjoy a meal for four for just 70 Moroccan dirhams (about 6 USD)."
-            },
-            {
-                "subHeading": "Are you convinced yet?",
-                "imgSrc": "https://res.cloudinary.com/didxdrmjj/image/upload/v1662052134/Article%20Photos%20-%20The%20Shoestring%20Traveller/Morocco:%20The%20Perfect%20Budget%20Destination/on-camel-merzouga_iuzoak.jpg",
-                "imgCaption": "The Shoestring Traveller with his camel in the Merzouga desert.",
-                "text": "With the rock bottom prices Morocco has to offer, the country is without a doubt a paradise for frugal travellers with a sense of adventure. So start planning your two-week budget adventure to this beautiful country. Just beware of tourist traps and remember to always bargain for a better price!"
+                "url":"https://www.health.harvard.edu/topics/mental-health"
             }
-        ],
-        "articleType": "Tourist Attractions",
-        "featured": true,
-        "continent": "Africa",
-        "region": "North Africa",
-        "country": "Morocco"
+
+                    ]
+    },
+    {
+        "_id": "2",
+        "title": "Young people’s mental health is finally getting the attention it needs",
+        "imgSrc": "https://res.cloudinary.com/degmdqmd0/image/upload/v1669658635/121151110-Sad-teenager_b8syid.jpg",
+        "summary": "The COVID-19 pandemic, a UNICEF report and a review of the latest research all highlight the urgent need for better prevention and treatment of youth anxiety and depression.",
+        
+        "paragraphs": [
+            {
+                "text": "Worldwide, at least 13% of people between the ages of 10 and 19 live with a diagnosed mental-health disorder, according to the latest State of the World’s Children report, published this week by the United Nations children’s charity UNICEF. "
+            },
+            {
+                "subHeading": "Anxiety around the world",
+                "text": "Anxiety and depression constitute more than 40% of mental-health disorders among young people (those aged 10–19). UNICEF also reports that, worldwide, suicide is the fourth most-common cause of death (after road injuries, tuberculosis and interpersonal violence) among adolescents (aged 15–19)."
+            },
+            {
+                "text":"Sadly, psychological distress among young people seems to be rising. One study found that rates of depression among a nationally representative sample of US adolescents (aged 12 to 17) increased from 8.5% of young adults to 13.2% between 2005 and 20171. There’s also initial evidence that the coronavirus pandemic is exacerbating this trend in some countries."
+            },
+            {
+                "text": "Although most mental-health disorders arise during adolescence, UNICEF says that only one-third of investment in mental-health research is targeted towards young people. "
+            },
+            {
+                "url":"https://www.nature.com/articles/d41586-021-02690-5"
+            }
+
+
+                    ]
+    }, 
+    {
+        "_id": "3",
+        "title": "Building Better Mental Health",
+        "imgSrc": "https://res.cloudinary.com/degmdqmd0/image/upload/v1669661865/5c0b2cf797f1293bac5a232a_5-Things-You-Can-Do-Right-Now-to-Improve-Your-Mental-Health_r5hgwj.png",
+        "summary": "Looking to boost your mood, handle your emotions better, or build resilience? These six life-changing strategies for improving mental health and well-being can show you how.",
+        
+        "paragraphs": [
+            {
+                "text": "Your mental health influences how you think, feel, and behave in daily life. It also affects your ability to cope with stress, overcome challenges, build relationships, and recover from life’s setbacks and hardships."
+            },
+            {
+                "subHeading": "Understanding good mental health",
+                "text": "Strong mental health isn’t just the absence of mental health problems. Being mentally or emotionally healthy is much more than being free of depression, anxiety, or other psychological issues. Rather than the absence of mental illness, mental health refers to the presence of positive characteristics."
+            },
+            {
+                "text":"Having solid mental health doesn't mean that you never go through bad times or experience emotional problems. We all go through disappointments, loss, and change."
+            },
+            {
+                "text": "People who are emotionally and mentally resilient have the tools for coping with difficult situations and maintaining a positive outlook. They remain focused, flexible, and productive, in bad times as well as good. "
+            },
+            {
+                "url":"https://www.helpguide.org/articles/mental-health/building-better-mental-health.htm"
+            }
+                    ]
+    },
+    {
+        "_id": "4",
+        "title": "What is recovery?",
+        "imgSrc": "https://res.cloudinary.com/degmdqmd0/image/upload/v1669661925/download_iir23q.jpg",
+        "summary": "Is it possible to recover from mental illness? ",
+        "paragraphs": [
+            {
+                "text": "By taking care of your mental health you can live your life to its greatest potential; by maintaining it you will be able to enjoy the simple things in life that make you happy. It will allow you to manage the stressful things in life and allow you to enjoy what you love. "
+            },
+            {
+                "subHeading": "A Wider Glance at Mental Health",
+                "text": "Strong mental health isn’t just the absence of mental health problems. Being mentally or emotionally healthy is much more than being free of depression, anxiety, or other psychological issues. Rather than the absence of mental illness, mental health refers to the presence of positive characteristics."
+            },
+            {
+                "text":"The capacities of each and all of us to feel, think, and act in ways that enhance our ability to enjoy life and deal with the challenges we face. It is a positive sense of emotional and spiritual well-being that respects the importance of culture, equity, social justice, interconnections, and personal dignity."
+            },
+
+            {
+                "url":"https://amiquebec.org/what-is-recovery/?utm_source=google&utm_medium=cpc&utm_term=mental%20health%20help&utm_content=!acq!v3!105547994076_kwd-22361951__452525474122_g_c__&utm_campaign=amique+basic"
+            }
+                    ]
+    },
+    {
+        "_id": "5",
+        "title": "Three Tips To Improve Your Mental Health",
+        "imgSrc": "https://res.cloudinary.com/degmdqmd0/image/upload/v1669662218/GettyImages-593384542-5c5b3eb546e0fb00017dcf7f_df6g0e.jpg",
+        "summary": "The ability to deal with life’s demands and maintain productive relationships ties into mental health and mental well-being.",
+
+        "paragraphs": [
+            {
+                "text": "No matter who you are or where you are in life, there are always steps you can take to improve or maintain your mental health."
+            },
+            {
+                "subHeading": "The Leading Ways To Improve Your Mental Health",
+                "text": "Strong mental health isn’t just the absence of mental health problems. Being mentally or emotionally healthy is much more than being free of depression, anxiety, or other psychological issues. Rather than the absence of mental illness, mental health refers to the presence of positive characteristics."
+            },
+            {
+                "text":"1. Get Your Body Moving: Getting your body moving and being physically active allows for the release of endorphins that relieve stress and improve your emotional state."
+            },
+            {
+                "text":" 2. Surround Yourself With Good People: The company that individuals keep will have an enormous impact on their mental health because humans are naturally social creatures."
+            },
+            {
+                "text":"3. Don’t Be Afraid To Put Your Needs First: t is also essential to know when to put your mental health and your needs first. If you always put other people first, you will come last."
+            },
+
+            {
+                "url":"https://www.betterhelp.com/advice/how-to/seven-tips-on-how-to-improve-mental-health/?utm_source=AdWords&utm_medium=Search_PPC_c&utm_term=PerformanceMax&utm_content=&network=x&placement=&target=&matchtype=&utm_campaign=17990185911&ad_type=responsive_pmax&adposition=&gclid=CjwKCAiAyfybBhBKEiwAgtB7fu9pq-akFW6NChZAFN_v1Oxr03eo83HbTe75Sjv5cOb1Y-WbCD99hhoCACAQAvD_BwE"
+            }
+                    ]
     }
+
 ]
